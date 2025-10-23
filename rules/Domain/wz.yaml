@@ -40,9 +40,7 @@ rules:
   - +.pvp.ingame.qq.com
   - +.receiver.tdm.qq.com
   - +.api.xunyou.mobi
-  - +.hc2.tdm.qq.com
-  - +.cloudctrl.gcloud.qq.com
-  - +.pop-release.itop.qq.com
-  - +.dlied5.qq.com
-  - +112.60.23.144
-  - +112.60.23.160
+  - +tools.tmga.qq.com:17005
+  - +qosidc.gcloudsdk.com:8011
+  - +42.81.179.236:5010
+  - +43.129.111.193:8080
